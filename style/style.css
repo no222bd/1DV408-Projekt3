@@ -1,0 +1,121 @@
+body {
+    margin: 0 auto;
+    width: 960px;
+    text-align: center;
+    font-family: "Ubuntu", sans-serif;
+    color:#555;
+    background-color: whitesmoke;
+
+}
+
+h1 {
+    font-size: 4.5em;
+    text-shadow: 0px 0px 15px #aaa;
+    margin: 35px 0;
+}
+
+h2 {
+    font-size: 2em;
+    text-shadow: 0px 0px 15px #aaa;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+.icon {
+    display: inline-block;
+    float: none;
+}
+
+.login {
+    font-size: 1.75em;
+    text-align: left;
+    padding: 20px;
+    border: 4px solid #bbb;
+    border-radius: 30px;
+    box-shadow: 0 0 25px #aaa;
+    width: 400px;
+    display: inline-block;
+}
+
+.login a {
+    font-size: 0.75em;
+    color: #555;
+    margin-top: 100px;
+}
+
+label {
+    text-align: left;
+    font-size: 0.75em;
+    margin: 10px 0 5px;
+    display: inline-block;
+}
+
+.login input[type="text"], .login input[type="password"] {
+    width: 100%;
+    font-size: 0.75em;
+    padding: 5px 10px;
+    border: 4px solid #bbb;
+}
+
+.login input[type="submit"] {
+    font-size: 0.75em;
+    padding: 5px 10px;
+    float: right;
+}
+
+#questionBox {
+    border: 4px solid #999;
+    border-radius: 30px;
+    box-shadow: 0 0 25px #aaa;
+    background-color: white;
+    min-height: 500px;
+    padding: 25px;
+}
+
+
+.message {
+    color: orange;
+    font-size: 0.5em;
+}
+
+a {
+    font-size: 24px;
+    color: #555;
+}
+
+.logout input {
+    border: 0;
+    background-color: transparent;
+    text-decoration: underline;
+    font-size: 24px;
+    margin: 0;
+}
+
+.logout {
+    margin-bottom: 0;
+}
+
+.listtable {
+width:60%;
+bor der: 1px solid #555;
+display: inline-block;
+font-size: 24px;
+
+}
+
+thead th {
+    background-color: #555;
+    color: #ccc;
+    font-size: 24px;
+    padding: 5px 0;
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
